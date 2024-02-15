@@ -1,0 +1,25 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+
+}
+
+/* .todo-c{
+  margin: 10px;
+} */
+
+
+
+.textCut{
+  text-decoration: line-through;
+}
+
